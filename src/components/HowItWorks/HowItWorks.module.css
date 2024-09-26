@@ -1,0 +1,41 @@
+.howItWorks {
+  height: 110vh;
+  padding: 40px;
+  text-align: left;
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #25262b;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.howItWorks h2 {
+  font-size: 24px;
+  margin-bottom: 16px;
+  color: #c1c2c5;
+}
+
+.infoBox {
+  border-left: 4px solid #665dc3;
+  padding-left: 16px;
+  margin-bottom: 24px;
+}
+
+.infoBox p {
+  margin-bottom: 16px;
+  color: #a6a7ab;
+  line-height: 1.6;
+}
+
+.privacyBox h4 {
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+  margin-bottom: 8px;
+  color: #c1c2c5;
+}
+
+.privacyBox p {
+  color: #a6a7ab;
+  line-height: 1.6;
+}
